@@ -5,7 +5,7 @@
 
 **😀 作为用户您可以通过注册登录账户，获取接口调用权限，并根据自己的需求浏览和选择适合的接口。您可以在线进行接口调试，快速验证接口的功能和效果。** 
 
-**💻 作为开发者 我们提供了[客户端SDK: Wu-API-SDK](https://github.com/qimu666/qi-api-sdk)， 通过[开发者凭证]即可将轻松集成接口到您的项目中，实现更高效的开发和调用。** 
+**💻 作为开发者 我们提供了[客户端SDK: Wu-API-SDK](https://github.com/wutong2003/wu-api-sdk)， 通过[开发者凭证]即可将轻松集成接口到您的项目中，实现更高效的开发和调用。** 
 
 **🤝 您可以将自己的接口接入到Wu-API 接口开放平台平台上，并发布给其他用户使用。 您可以管理和各个接口，以便更好地分析和优化接口性能。** 
 
@@ -20,7 +20,7 @@
 | **🏘️ [wu-api-common](./wu-api-common)**               | 公共服务模块       |
 | **🕸️ [wu-api-gateway](./wu-api-gateway)**             | 网关模块           |
 | **🔗 [wu-api-interface](./wu-api-interface)**          | 接口模块           |
-| **🛠 [wu-qpi-sdk](https://github.com/wutong666/wu-api-sdk)** | 开发者调用sdk      |
+| **🛠 [wu-qpi-sdk](https://github.com/wutong2003/wu-api-sdk)** | 开发者调用sdk      |
 
 ## 项目架构图
 ![pic2](https://github.com/user-attachments/assets/f5f7f3d3-3689-4cea-9416-db0069941c06)
