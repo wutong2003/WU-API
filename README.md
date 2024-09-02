@@ -1,4 +1,3 @@
-## WU-API接口开放平台后端
 <h1 align="center">Wu-API 接口开放平台</h1>
 <p align="center"><strong>Wu-API 接口开放平台是一个为用户和开发者提供全面API接口调用服务的平台 🛠</strong></p>
 ## 项目介绍 🙋
