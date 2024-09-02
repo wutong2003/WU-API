@@ -1,7 +1,7 @@
 <h1 align="center">Wu-API 接口开放平台</h1>
 <p align="center"><strong>Wu-API 接口开放平台是一个为用户和开发者提供全面API接口调用服务的平台 🛠</strong></p>
-## 项目介绍 🙋
 
+## 项目介绍 🙋
 
 **😀 作为用户您可以通过注册登录账户，获取接口调用权限，并根据自己的需求浏览和选择适合的接口。您可以在线进行接口调试，快速验证接口的功能和效果。** 
 
@@ -16,7 +16,7 @@
 
 | 目录                                                     | 描述               |
 |--------------------------------------------------------| ------------------ |
-| **🏘️ [wu-api-backend](./wu-api-backend)**             | Qi-API后端服务模块 |
+| **🏘️ [wu-api-backend](./wu-api-backend)**             | Wu-API后端服务模块 |
 | **🏘️ [wu-api-common](./wu-api-common)**               | 公共服务模块       |
 | **🕸️ [wu-api-gateway](./wu-api-gateway)**             | 网关模块           |
 | **🔗 [wu-api-interface](./wu-api-interface)**          | 接口模块           |
