@@ -5,7 +5,7 @@
 
 **😀 作为用户您可以通过注册登录账户，获取接口调用权限，并根据自己的需求浏览和选择适合的接口。您可以在线进行接口调试，快速验证接口的功能和效果。** 
 
-**💻 作为开发者 我们提供了[客户端SDK: Wu-API-SDK](https://github.com/wutong2003/wu-api-sdk)， 通过[开发者凭证]即可将轻松集成接口到您的项目中，实现更高效的开发和调用。** 
+**💻 作为开发者 我们提供了[客户端SDK: WuAPI-SDK]， 通过[开发者凭证]即可将轻松集成接口到您的项目中，实现更高效的开发和调用。** 
 
 **🤝 您可以将自己的接口接入到Wu-API 接口开放平台平台上，并发布给其他用户使用。 您可以管理和各个接口，以便更好地分析和优化接口性能。** 
 
@@ -16,11 +16,11 @@
 
 | 目录                                                     | 描述               |
 |--------------------------------------------------------| ------------------ |
-| **🏘️ [wu-api-backend](./wu-api-backend)**             | Wu-API后端服务模块 |
-| **🏘️ [wu-api-common](./wu-api-common)**               | 公共服务模块       |
-| **🕸️ [wu-api-gateway](./wu-api-gateway)**             | 网关模块           |
-| **🔗 [wu-api-interface](./wu-api-interface)**          | 接口模块           |
-| **🛠 [wu-qpi-sdk](https://github.com/wutong2003/wu-api-sdk)** | 开发者调用sdk      |
+| **🏘️ [wuapi-backend](./src)**             | Wu-API后端服务模块 |
+| **🏘️ [wuapi-common](./wuapi-common)**               | 公共服务模块       |
+| **🕸️ [wuapi-gateway](./wu-api-gateway)**             | 网关模块           |
+| **🔗 [wuapi-interface](./wuapi-interface)**          | 接口模块           |
+| **🛠 [wuapi-sdk](https://github.com/wutong2003/wuapi-client-sdk)** | 开发者调用sdk      |
 
 ## 项目架构图
 ![pic2](https://github.com/user-attachments/assets/f5f7f3d3-3689-4cea-9416-db0069941c06)
@@ -67,7 +67,6 @@ yarn build or npm run build
 - API 签名认证（Http 调用）
 - Swagger + Knife4j 接口文档
 - Spring Boot Starter（SDK 开发）
-- Jakarta.Mail 邮箱通知、验证码
 - Spring Session Redis 分布式登录
 - Apache Commons Lang3 工具类
 - MyBatis-Plus 及 MyBatis X 自动生成
